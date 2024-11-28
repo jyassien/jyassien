@@ -1,4 +1,12 @@
 ## Hi there 👋
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,cpp,c)](https://skillicons.dev)      
+[![My Skills](https://skillicons.dev/icons?i=react,vue,jquery)](https://skillicons.dev)     
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap)](https://skillicons.dev)     
+[![My Skills](https://skillicons.dev/icons?i=figma,androidstudio,rails,spring)](https://skillicons.dev)     
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mysql)](https://skillicons.dev)     
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,postman,docker,firebase)](https://skillicons.dev)     
+
 <!--
 [![Jihadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyassien&theme=chartreuse-dark&show_icons=true)](https://github.com/jyassien/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyassien)](https://github.com/jyassien/github-readme-stats)
