@@ -1,6 +1,8 @@
 ## Hi there 👋
-[![Jihadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyassien&theme=chartreuse-dark&show_icons=true)](https://github.com/jyassien/github-readme-stats)
 <!--
+[![Jihadu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyassien&theme=chartreuse-dark&show_icons=true)](https://github.com/jyassien/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyassien)](https://github.com/jyassien/github-readme-stats)
+
 **jyassien/jyassien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
